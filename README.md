@@ -1,4 +1,4 @@
-# STMicroelectronics – STM32 model zoo
+# STMicroelectronics – STM32 model zo
 
 Welcome to STM32 model zoo!
 
